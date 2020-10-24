@@ -124,7 +124,7 @@ strong.important {
 
 hr {
   border: none;
-  border-bottom: 1px solid #d8d4d0;
+  border-bottom: 1px solid #003060;
   margin-top: 20px;
   margin-bottom: 30px; }
 
@@ -1265,8 +1265,8 @@ hr {
     -moz-user-select: none;
     background: #bbada0;
     border-radius: 6px;
-    width: 345px;
-    height: 345px;
+    width: 312px;
+    height: 312px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
